@@ -1,1 +1,1 @@
-worker: python3 -m Yukimusicbot
+python3 main.py
