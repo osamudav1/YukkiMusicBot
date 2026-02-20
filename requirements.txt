@@ -11,7 +11,7 @@ Pillow>=10.0.0
 psutil
 py-tgcalls>=2.2.11
 pykeyboard
-pyrogram>=1.4.16
+pyrogram==1.4.16
 python-dotenv
 pyyaml>=6.0
 requests
